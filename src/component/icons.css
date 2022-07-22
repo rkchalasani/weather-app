@@ -1,0 +1,18 @@
+.img {
+  width: 50px;
+}
+.col {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+}
+/* .icons{
+    left: 5%;
+} */
+.div {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  padding: 20px;
+  /* padding-left: 2px; */
+}

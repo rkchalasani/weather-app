@@ -1,0 +1,122 @@
+:root {
+  --ion-color-new: #455d8b;
+  --ion-color-new-rgb: 69, 93, 139;
+  --ion-color-new-contrast: #ffffff;
+  --ion-color-new-contrast-rgb: 255, 255, 255;
+  --ion-color-new-shade: #3d527a;
+  --ion-color-new-tint: #586d97;
+}
+
+.ion-color-new {
+  --ion-color-base: var(--ion-color-new);
+  --ion-color-base-rgb: var(--ion-color-new-rgb);
+  --ion-color-contrast: var(--ion-color-new-contrast);
+  --ion-color-contrast-rgb: var(--ion-color-new-contrast-rgb);
+  --ion-color-shade: var(--ion-color-new-shade);
+  --ion-color-tint: var(--ion-color-new-tint);
+}
+:root {
+  --ion-color-purple: #6060dc;
+  --ion-color-purple-rgb: 96, 96, 220;
+  --ion-color-purple-contrast: #ffffff;
+  --ion-color-purple-contrast-rgb: 255, 255, 255;
+  --ion-color-purple-shade: #5454c2;
+  --ion-color-purple-tint: #7070e0;
+}
+.ion-color-purple {
+  --ion-color-base: var(--ion-color-purple);
+  --ion-color-base-rgb: var(--ion-color-purple-rgb);
+  --ion-color-contrast: var(--ion-color-purple-contrast);
+  --ion-color-contrast-rgb: var(--ion-color-purple-contrast-rgb);
+  --ion-color-shade: var(--ion-color-purple-shade);
+  --ion-color-tint: var(--ion-color-purple-tint);
+}
+
+.body1 {
+  /* --background: url(https://media.istockphoto.com/photos/beautiful-sky-with-white-cloud-background-picture-id517897328?b=1&k=20&m=517897328&s=170667a&w=0&h=QpeJ9U8Kdx7Wbj96k_8pYR_5NvM2FfcufYg2NJGqPUo=)
+    no-repeat center/cover fixed; */
+    /* --background: url(../../public/assets/images/sky.jpg)
+    no-repeat center/cover fixed; */
+}
+.row1 {
+  /* text-align: center; */
+  position: absolute;
+  /* font-size: 12px; */
+  /* line-height: 26px; */
+  color: rgb(255, 255, 255);
+  top: 20%;
+  left: 0;
+  right: 0;
+}
+.col11 {
+  /* width: 250px; */
+  margin-top: 10px;
+}
+.col21 {
+  /* right: 18%; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.image1{
+  width: 50px;
+}
+
+.class11 {
+  text-align: center;
+  position: absolute;
+  font-size: 27px;
+  line-height: 26px;
+  color: rgb(255, 255, 255);
+  top: 6%;
+  left: 0;
+  right: 0;
+}
+.card1 {
+  transition: all 0.25s ease;
+  width: auto;
+  top: 10%;
+  height: 570px;
+  position: relative;
+  border-radius: 7px;
+  box-shadow: 0 0 50px rgba(0, 0, 0, 0.452);
+  text-align: center;
+  background: transparent;
+}
+
+.city1 {
+  text-align: center;
+  position: absolute;
+  font-size: 27px;
+  line-height: 26px;
+  color: rgb(255, 255, 255);
+  top: 43%;
+  left: 0;
+  right: 0;
+}
+.class21 {
+  color: #ffffff;
+}
+
+.grid1 {
+  /* text-align: center; */
+  position: absolute;
+  font-size: 15px;
+  /* line-height: 26px; */
+  color: rgb(255, 255, 255);
+  top: 60%;
+  left: 0;
+  right: 0;
+  display: flex;
+}
+.grid11 {
+  /* text-align: center; */
+  position: absolute;
+  font-size: 15px;
+  /* line-height: 26px; */
+  color: rgb(255, 255, 255);
+  top: 77%;
+  left: 0;
+  right: 0;
+}

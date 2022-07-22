@@ -1,0 +1,127 @@
+:root {
+  --ion-color-skyblue: #3c73e5;
+  --ion-color-skyblue-rgb: 60, 115, 229;
+  --ion-color-skyblue-contrast: #ffffff;
+  --ion-color-skyblue-contrast-rgb: 255, 255, 255;
+  --ion-color-skyblue-shade: #3565ca;
+  --ion-color-skyblue-tint: #5081e8;
+}
+
+.ion-color-skyblue {
+  --ion-color-base: var(--ion-color-skyblue);
+  --ion-color-base-rgb: var(--ion-color-skyblue-rgb);
+  --ion-color-contrast: var(--ion-color-skyblue-contrast);
+  --ion-color-contrast-rgb: var(--ion-color-skyblue-contrast-rgb);
+  --ion-color-shade: var(--ion-color-skyblue-shade);
+  --ion-color-tint: var(--ion-color-skyblue-tint);
+}
+:root {
+  --ion-color-new: #455d8b;
+  --ion-color-new-rgb: 69, 93, 139;
+  --ion-color-new-contrast: #ffffff;
+  --ion-color-new-contrast-rgb: 255, 255, 255;
+  --ion-color-new-shade: #3d527a;
+  --ion-color-new-tint: #586d97;
+}
+
+.ion-color-new {
+  --ion-color-base: var(--ion-color-new);
+  --ion-color-base-rgb: var(--ion-color-new-rgb);
+  --ion-color-contrast: var(--ion-color-new-contrast);
+  --ion-color-contrast-rgb: var(--ion-color-new-contrast-rgb);
+  --ion-color-shade: var(--ion-color-new-shade);
+  --ion-color-tint: var(--ion-color-new-tint);
+}
+:root {
+  --ion-color-purple: #6060dc;
+  --ion-color-purple-rgb: 96, 96, 220;
+  --ion-color-purple-contrast: #ffffff;
+  --ion-color-purple-contrast-rgb: 255, 255, 255;
+  --ion-color-purple-shade: #5454c2;
+  --ion-color-purple-tint: #7070e0;
+}
+.ion-color-purple {
+  --ion-color-base: var(--ion-color-purple);
+  --ion-color-base-rgb: var(--ion-color-purple-rgb);
+  --ion-color-contrast: var(--ion-color-purple-contrast);
+  --ion-color-contrast-rgb: var(--ion-color-purple-contrast-rgb);
+  --ion-color-shade: var(--ion-color-purple-shade);
+  --ion-color-tint: var(--ion-color-purple-tint);
+}
+
+.body2 {
+  /* --background: url(https://media.istockphoto.com/photos/beautiful-sky-with-white-cloud-background-picture-id517897328?b=1&k=20&m=517897328&s=170667a&w=0&h=QpeJ9U8Kdx7Wbj96k_8pYR_5NvM2FfcufYg2NJGqPUo=) 
+    no-repeat center/cover fixed; */
+  --background: url() no-repeat;
+}
+.img2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 100px;
+  /* margin-left: 70px; */
+}
+.image2 {
+  width: 200px;
+  margin-top: 20px;
+}
+
+.class12 {
+  text-align: center;
+  position: absolute;
+  font-size: 27px;
+  line-height: 26px;
+  color: rgb(255, 255, 255);
+  top: 6%;
+  left: 0;
+  right: 0;
+}
+.card2 {
+  transition: all 0.25s ease;
+  width: auto;
+  top: 10%;
+  height: 570px;
+  position: relative;
+  border-radius: 10px;
+  box-shadow: 0 0 50px rgba(0, 0, 0, 0.452);
+  text-align: center;
+
+  background: transparent;
+}
+/* .card:hover{
+      transform: scale(1.05);
+      box-shadow: 0 0 40px  rgba(99, 99, 99, 0.452);    
+  } */
+.cardtitle2 {
+  margin-top: 70px;
+  margin-bottom: 5px;
+  font-size: 1.5rem;
+  color: rgb(255, 255, 255);
+}
+
+.input2 {
+  border: 1px rgb(255, 255, 255) solid;
+  border-radius: 5px;
+  width: auto;
+  color: #ffffff;
+  margin: 20px;
+  margin-top:30px;
+  justify-content: center;
+  /* display: inline-block; */
+  text-align: left;
+}
+
+.loginbtn2 {
+  margin-top: 15px;
+}
+/* video {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  min-width: 100%;
+  min-height: 100%;
+  width: auto;
+  height: auto;
+  z-index: -100;
+  transform: translateX(-50%) translateY(-50%);
+} */
